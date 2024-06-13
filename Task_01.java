@@ -33,6 +33,7 @@ public class Task_01{
         System.out.println("The number was:"+random_num);
 
         System.out.println("Thank you for playing.");
+        System.out.println("GAME OVER");
 
 
        sc.close();

@@ -6,7 +6,7 @@ public class Task_01{
         Scanner sc=new Scanner(System.in);
 
         int random_num=randomnum.nextInt(100);
-        System.out.println("Welcome!");
+        System.out.println("WELCOME!");
         System.out.println("Number Guessing Game");
 
         int num_tries=3;
@@ -33,6 +33,7 @@ public class Task_01{
         System.out.println("The number was:"+random_num);
 
         System.out.println("Thank you for playing.");
+        System.out.println("GAME OVER");
 
 
        sc.close();
